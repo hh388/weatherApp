@@ -5,4 +5,5 @@
 ```kotlin
 https://api.open-meteo.com/v1/forecast?hourly=temperature_2m,weathercode,relativehumidity_2m,windspeed_10m,pressure_msl
 ```
-![image](https://github.com/hh388/weatherApp/blob/main/readmeImg/main.jpg)
+#### 2.Application Picture （应用图片）
+![image](https://github.com/hh388/weatherApp/blob/main/readmeImg/main.png)
