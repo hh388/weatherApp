@@ -1,4 +1,4 @@
-﻿# weatherApp
+﻿# weatherApp 天气APP (jetpack compose android)
 
 #### 1. weather data resource（天气数据来源）
 
